@@ -19,11 +19,11 @@ Tools:
 
 Outline:
 
-| Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude
-| Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color
+| Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
+| Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
 | Include popups that provide additional information about the earthquake when its associated marker is clicked.
 | Create a legend that will provide context for your map data.
-| The color palatte :
+| The color palette :
 https://www.crispedge.com/color-wheel/
 
 final result:
